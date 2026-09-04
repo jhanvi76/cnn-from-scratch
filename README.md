@@ -1,4 +1,4 @@
-# cnn-from-scratch
+# cnn-from-scratch and with Keras
 A hands-on implementation of CNNs — building convolution, padding, stride, and max pooling from scratch in NumPy, then training a real CNN with TensorFlow/Keras on MNIST.
 
 # CNN From Scratch & with Keras 
